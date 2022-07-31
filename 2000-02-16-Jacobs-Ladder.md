@@ -4,7 +4,7 @@ title: Smart Home Project
 description: Home automation system running on a raspberry pi which tracks who and who is not home as well as the bus schedule.
 date: 2000-02-16 09:00:00
 hero_image: /web/img/Corne-Bluetooth-Keyboard/Hero.png
-image: /web/img/Corne-Bluetooth-Keyboard/Hero.png
+# image /web/img/Corne-Bluetooth-Keyboard/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
